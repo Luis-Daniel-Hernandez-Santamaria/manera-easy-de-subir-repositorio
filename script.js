@@ -3,14 +3,14 @@ let botonazul = document.getElementById("azul");
 let botonverde = document.getElementById("Verde");
 
 botonRojo.addEventListener("click",function(){
-    document.body.style.backgroundColor = "lightcoral";
+    document.body.style.backgroundColor = "lightgrey";
 });
 
 botonazul.addEventListener("click",function(){
-    document.body.style.backgroundColor = "lightblue";
+    document.body.style.backgroundColor = "lightpink";
 });
 
 
 botonverde.addEventListener("click",function(){
-    document.body.style.backgroundColor = "lightgreen";
+    document.body.style.backgroundColor = "lightyellow";
 });
