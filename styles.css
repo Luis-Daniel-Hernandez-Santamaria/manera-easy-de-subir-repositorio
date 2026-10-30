@@ -19,12 +19,12 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
-#rojo {
-    background-color: red;
+#grey {
+    background-color: rgb(120, 110, 110);
 }
-#azul {
-    background-color: blue;
+#pink {
+    background-color: rgb(255, 41, 151);
 }
-#Verde {
-    background-color: green;
+#yellow {
+    background-color: rgb(247, 255, 10);
 }
